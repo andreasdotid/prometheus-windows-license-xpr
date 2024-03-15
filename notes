@@ -1,0 +1,5 @@
+Windows powershell script to check Windows license expiration for Prometheus
+
+Prometheus metrics will read from slmgr_result.prom
+
+Copy all files into "C:\Program Files (x86)\windows_exporter\textfile_inputs"
